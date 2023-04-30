@@ -13,4 +13,4 @@ Disco.Tix is a web application that enables users to purchase movie tickets onli
 
 ## Contact Us 📞
 
-If you have any questions or feedback about Disco.Tix, please feel free to reach out to us at contact@discotix.com 📧. We're always happy to hear from our users! 😊
+If you have any questions or feedback about Disco.Tix, please feel free to reach out to us at ucuy poppunkgow! 📧. We're always happy to hear from our users! 😊
