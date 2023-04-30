@@ -1,0 +1,30 @@
+{
+  "name": "discotix",
+  "version": "1.0.0",
+  "description": "Disco.Tix is a web application that enables users to purchase movie tickets online.",
+  "main": "index.js",
+  "scripts": {
+    "kiw": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fullvomitforme/discotix.io.git"
+  },
+  "keywords": [
+    "discotix"
+  ],
+  "author": "Burhannudin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fullvomitforme/discotix.io/issues"
+  },
+  "homepage": "https://github.com/fullvomitforme/discotix.io#readme",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2",
+    "mysql": "^2.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
